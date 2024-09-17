@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TacoBurritoLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72e6fc55dfb28b5eb630cbb9a215b1d1bfffc5af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc0f9a09dcc5b0862bab2d0dfe6954b0e030237d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TacoBurritoLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TacoBurritoLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
