@@ -1,0 +1,15 @@
+/workspaces/Module3Lab/TacoBurritoLab/bin/Debug/net8.0/TacoBurritoLab
+/workspaces/Module3Lab/TacoBurritoLab/bin/Debug/net8.0/TacoBurritoLab.deps.json
+/workspaces/Module3Lab/TacoBurritoLab/bin/Debug/net8.0/TacoBurritoLab.runtimeconfig.json
+/workspaces/Module3Lab/TacoBurritoLab/bin/Debug/net8.0/TacoBurritoLab.dll
+/workspaces/Module3Lab/TacoBurritoLab/bin/Debug/net8.0/TacoBurritoLab.pdb
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.AssemblyInfoInputs.cache
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.AssemblyInfo.cs
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.csproj.CoreCompileInputs.cache
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.sourcelink.json
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.dll
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/refint/TacoBurritoLab.dll
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.pdb
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/TacoBurritoLab.genruntimeconfig.cache
+/workspaces/Module3Lab/TacoBurritoLab/obj/Debug/net8.0/ref/TacoBurritoLab.dll

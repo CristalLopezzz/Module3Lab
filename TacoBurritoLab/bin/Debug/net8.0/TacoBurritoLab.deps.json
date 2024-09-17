@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TacoBurritoLab/1.0.0": {
+        "runtime": {
+          "TacoBurritoLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TacoBurritoLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
